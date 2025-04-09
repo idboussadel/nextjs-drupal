@@ -11,6 +11,7 @@ out/
 .env.test.local
 .env.production.local
 .env
+my-app/.env
 
 # Log files
 npm-debug.log*
